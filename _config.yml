@@ -30,7 +30,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   
-baseurl: /altugverse/
 
 titles_from_headings:
   strip_title: true
