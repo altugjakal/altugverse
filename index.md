@@ -8,5 +8,4 @@ title: About
     <h1>Hello, I'm Altuğ</h1>
     <p>I'm passionate about airplanes, programming, and playing guitar—among other things I'll remember eventually.</p>
   </div>
-  <img src="/assets/images/1764113004419.jpeg" alt="Altuğ" style="max-width: 200px; border-radius: 8px;">
 </div>
