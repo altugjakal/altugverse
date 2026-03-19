@@ -3,16 +3,11 @@ layout: default
 title: About
 ---
 
----
-layout: default
-title: About
----
 
 <div class="about-wrapper">
 
   <header class="about-header">
-    <h1>Altuğ Jakal</h1>
-    <p class="tagline">Builder. Researcher. Perpetually curious.</p>
+    <h1>Mehmet Altuğ Jakal</h1>
   </header>
 
   <section class="about-bio">
