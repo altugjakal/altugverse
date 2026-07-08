@@ -6,9 +6,7 @@ title: About
 
 <div class="about-wrapper">
 
-  <header class="about-header">
-    <h1>Mehmet Altuğ Jakal</h1>
-  </header>
+ 
 
   <section class="about-bio">
     <p>
