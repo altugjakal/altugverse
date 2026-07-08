@@ -12,8 +12,7 @@ title: About
 
   <section class="about-bio">
     <p>
-      I'm a high schooler, drawn into the idea of building crazy sounding systems. I learn by programming, and I program to make a difference.
-      Ability to create such systems has given me a new perspective on life.
+      I build search systems.
     </p>
   </section>
 
@@ -23,27 +22,13 @@ title: About
 
       <div class="project-item">
         <div class="project-meta">
-          <span class="project-name">janNet</span>
-          <span class="project-status">active</span>
+          <span class="project-name">janNet / corNet Search Suite</span>
+          <span class="project-status">indev</span>
         </div>
-        <p>A hybrid search engine combining BM25, dense retrieval, and CMaxSim late interaction reranking with PageRank scoring. Built from scratch — crawler, indexer, and retrieval pipeline included.</p>
+        <p>A hybrid search engine combining VSP, dense retrieval, and MaxSim late interaction reranking with PageRank scoring. Crawler, indexer, and retrieval pipeline included.</p>
       </div>
 
-      <div class="project-item">
-        <div class="project-meta">
-          <span class="project-name">Webscrolled</span>
-          <span class="project-status">active</span>
-        </div>
-        <p>A consumer-facing "research rabbit hole" search product built on top of janNet. SvelteKit frontend, Flask backend.</p>
-      </div>
-
-      <div class="project-item">
-        <div class="project-meta">
-          <span class="project-name">Crumbs</span>
-          <span class="project-status">shipped</span>
-        </div>
-        <p>A social network connecting seniors and freshmen at TED Bursa. Real-time WebSocket architecture, 45 users at peak. Built and deployed while still a student there.</p>
-      </div>
+    
 
     </div>
   </section>
